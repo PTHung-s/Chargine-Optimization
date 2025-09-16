@@ -1,0 +1,2377 @@
+[
+  {
+    "date_range": "2018-09-05 to 2018-09-06",
+    "objective_value": 30.6443091102,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2018-09-06 to 2018-09-07",
+    "objective_value": 60.74045856466401,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2018-09-07 to 2018-09-08",
+    "objective_value": 42.241998377481,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2018-09-08 to 2018-09-09",
+    "objective_value": 3.480879098159,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2018-09-09 to 2018-09-10",
+    "objective_value": 23.8713740878092,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2018-09-10 to 2018-09-11",
+    "objective_value": 60.93559002319421,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2018-09-11 to 2018-09-13",
+    "objective_value": 21.593940894677,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2018-09-13 to 2018-09-14",
+    "objective_value": 46.278528848460006,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2018-09-14 to 2018-09-15",
+    "objective_value": 26.906374158202002,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2018-09-15 to 2018-09-16",
+    "objective_value": 4.7946478976,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2018-09-16 to 2018-09-17",
+    "objective_value": 38.519586836184,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2018-09-17 to 2018-09-18",
+    "objective_value": 113.68144690201359,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2018-09-18 to 2018-09-19",
+    "objective_value": 104.56475946642999,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2018-09-19 to 2018-09-20",
+    "objective_value": 89.02978456630701,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2018-09-20 to 2018-09-21",
+    "objective_value": 104.810710122394,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2018-09-21 to 2018-09-22",
+    "objective_value": 80.78116512924998,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2018-09-22 to 2018-09-23",
+    "objective_value": 7.56988929138,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2018-09-23 to 2018-09-24",
+    "objective_value": 20.4377722196621,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2018-09-24 to 2018-09-25",
+    "objective_value": 75.7660811573721,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2018-09-25 to 2018-09-26",
+    "objective_value": 96.86361357002998,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2018-09-26 to 2018-09-27",
+    "objective_value": 110.08958802142001,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2018-09-27 to 2018-09-28",
+    "objective_value": 103.18697058305798,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2018-09-28 to 2018-09-29",
+    "objective_value": 34.76890226404,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2018-09-29 to 2018-09-30",
+    "objective_value": 1.0959412808489,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2018-09-30 to 2018-10-01",
+    "objective_value": 22.3255744751189,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2018-10-01 to 2018-10-02",
+    "objective_value": 101.60433878280001,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2018-10-02 to 2018-10-03",
+    "objective_value": 76.77589383045601,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2018-10-03 to 2018-10-04",
+    "objective_value": 106.97189138371,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2018-10-04 to 2018-10-05",
+    "objective_value": 116.83320006580598,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2018-10-05 to 2018-10-06",
+    "objective_value": 84.97796090162201,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2018-10-06 to 2018-10-07",
+    "objective_value": 4.458873924828,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2018-10-07 to 2018-10-08",
+    "objective_value": 42.10574679210799,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2018-10-08 to 2018-10-09",
+    "objective_value": 128.725191048154,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2018-10-09 to 2018-10-10",
+    "objective_value": 99.90603363385802,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2018-10-10 to 2018-10-11",
+    "objective_value": 96.95767073344798,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2018-10-11 to 2018-10-12",
+    "objective_value": 80.70035466227998,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2018-10-12 to 2018-10-13",
+    "objective_value": 21.246713371415698,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2018-10-13 to 2018-10-14",
+    "objective_value": 6.593729216642999,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2018-10-14 to 2018-10-15",
+    "objective_value": 23.011108577714,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2018-10-15 to 2018-10-16",
+    "objective_value": 141.24438439189123,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2018-10-16 to 2018-10-17",
+    "objective_value": 98.36922813701801,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2018-10-17 to 2018-10-18",
+    "objective_value": 90.407316537145,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2018-10-18 to 2018-10-19",
+    "objective_value": 96.89649509700679,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2018-10-19 to 2018-10-20",
+    "objective_value": 68.5687484342886,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2018-10-20 to 2018-10-21",
+    "objective_value": 2.790957071838,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2018-10-21 to 2018-10-22",
+    "objective_value": 34.17129324731199,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2018-10-22 to 2018-10-23",
+    "objective_value": 94.748048538491,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2018-10-23 to 2018-10-24",
+    "objective_value": 101.378101055122,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2018-10-24 to 2018-10-25",
+    "objective_value": 110.90494263413399,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2018-10-25 to 2018-10-26",
+    "objective_value": 107.0153970352709,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2018-10-26 to 2018-10-27",
+    "objective_value": 39.8872862017329,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2018-10-27 to 2018-10-28",
+    "objective_value": 5.856165618487,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2018-10-28 to 2018-10-29",
+    "objective_value": 36.500497008841,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2018-10-29 to 2018-10-30",
+    "objective_value": 112.648191824296,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2018-10-30 to 2018-10-31",
+    "objective_value": 107.885244172953,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2018-10-31 to 2018-11-01",
+    "objective_value": 91.68803238729832,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2018-11-01 to 2018-11-02",
+    "objective_value": 92.9119595536413,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2018-11-02 to 2018-11-03",
+    "objective_value": 62.2466637066602,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2018-11-03 to 2018-11-04",
+    "objective_value": 0.7757850234984001,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2018-11-04 to 2018-11-05",
+    "objective_value": 10.9199325969292,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2018-11-05 to 2018-11-06",
+    "objective_value": 121.783981510002,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2018-11-06 to 2018-11-07",
+    "objective_value": 70.720674683886,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2018-11-07 to 2018-11-08",
+    "objective_value": 102.34641846473797,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2018-11-08 to 2018-11-09",
+    "objective_value": 74.761794716895,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2018-11-09 to 2018-11-10",
+    "objective_value": 32.01980890522,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2018-11-10 to 2018-11-11",
+    "objective_value": 1.318188796754,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2018-11-11 to 2018-11-12",
+    "objective_value": 16.152576800707,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2018-11-12 to 2018-11-13",
+    "objective_value": 113.0830562834132,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2018-11-13 to 2018-11-14",
+    "objective_value": 79.57751842827619,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2018-11-14 to 2018-11-15",
+    "objective_value": 106.40524073486299,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2018-11-15 to 2018-11-16",
+    "objective_value": 107.68327567787199,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2018-11-16 to 2018-11-17",
+    "objective_value": 93.851181010936,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2018-11-17 to 2018-11-18",
+    "objective_value": 5.859375717678,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2018-11-18 to 2018-11-19",
+    "objective_value": 20.033310400059,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2018-11-19 to 2018-11-20",
+    "objective_value": 134.072112679501,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2018-11-20 to 2018-11-21",
+    "objective_value": 75.5866914120938,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2018-11-21 to 2018-11-22",
+    "objective_value": 9.302037840177798,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2018-11-22 to 2018-11-23",
+    "objective_value": 2.3022268724329997,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2018-11-23 to 2018-11-24",
+    "objective_value": 1.5673514368099999,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2018-11-24 to 2018-11-25",
+    "objective_value": 1.8352442702299998,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2018-11-25 to 2018-11-26",
+    "objective_value": 31.121319682998,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2018-11-26 to 2018-11-27",
+    "objective_value": 86.36132379676802,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2018-11-27 to 2018-11-28",
+    "objective_value": 92.5549667082263,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2018-11-28 to 2018-11-29",
+    "objective_value": 101.73522169789229,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2018-11-29 to 2018-11-30",
+    "objective_value": 114.05419530787198,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2018-11-30 to 2018-12-01",
+    "objective_value": 100.488719170164,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2018-12-01 to 2018-12-02",
+    "objective_value": 1.4340663852376998,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2018-12-02 to 2018-12-03",
+    "objective_value": 20.901172550321604,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2018-12-03 to 2018-12-04",
+    "objective_value": 138.1110835683346,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2018-12-04 to 2018-12-05",
+    "objective_value": 119.71366167746702,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2018-12-05 to 2018-12-06",
+    "objective_value": 109.50602286521203,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2018-12-06 to 2018-12-07",
+    "objective_value": 111.37270337811601,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2018-12-07 to 2018-12-08",
+    "objective_value": 40.230491049695004,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2018-12-08 to 2018-12-09",
+    "objective_value": 0.9503115010780001,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2018-12-09 to 2018-12-10",
+    "objective_value": 16.40294239835,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2018-12-10 to 2018-12-11",
+    "objective_value": 125.17598311053379,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2018-12-11 to 2018-12-12",
+    "objective_value": 90.2366659823568,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2018-12-12 to 2018-12-13",
+    "objective_value": 98.466742615481,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2018-12-13 to 2018-12-14",
+    "objective_value": 117.71434917285599,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2018-12-14 to 2018-12-15",
+    "objective_value": 79.35477062568602,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2018-12-15 to 2018-12-16",
+    "objective_value": 7.0786065711598,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2018-12-16 to 2018-12-17",
+    "objective_value": 18.78396352703,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2018-12-17 to 2018-12-18",
+    "objective_value": 102.69995340720801,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2018-12-18 to 2018-12-19",
+    "objective_value": 117.6715889350968,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2018-12-19 to 2018-12-20",
+    "objective_value": 127.09454483714882,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2018-12-20 to 2018-12-21",
+    "objective_value": 110.15725836366201,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2018-12-21 to 2018-12-22",
+    "objective_value": 18.62145753475,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2018-12-22 to 2018-12-24",
+    "objective_value": 0.19395433403579998,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2018-12-24 to 2018-12-25",
+    "objective_value": 1.264551523317,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2018-12-25 to 2018-12-26",
+    "objective_value": 11.210849095387001,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2018-12-26 to 2018-12-27",
+    "objective_value": 84.959697760005,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2018-12-27 to 2018-12-28",
+    "objective_value": 83.13448477384901,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2018-12-28 to 2018-12-29",
+    "objective_value": 34.686833347884004,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2018-12-29 to 2018-12-31",
+    "objective_value": 3.909879888425,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2018-12-31 to 2019-01-02",
+    "objective_value": 21.973008094744596,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-01-02 to 2019-01-03",
+    "objective_value": 117.93394550508998,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-01-03 to 2019-01-04",
+    "objective_value": 113.86791347371798,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-01-04 to 2019-01-05",
+    "objective_value": 46.9433647962498,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-01-05 to 2019-01-06",
+    "objective_value": 4.4675706372018,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-01-06 to 2019-01-07",
+    "objective_value": 10.23389337295,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-01-07 to 2019-01-08",
+    "objective_value": 116.94979813179,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-01-08 to 2019-01-09",
+    "objective_value": 116.511570145376,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-01-09 to 2019-01-10",
+    "objective_value": 111.223535485386,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-01-10 to 2019-01-11",
+    "objective_value": 133.089059358942,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-01-11 to 2019-01-12",
+    "objective_value": 105.34894176271,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-01-12 to 2019-01-13",
+    "objective_value": 7.196933258034799,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-01-13 to 2019-01-14",
+    "objective_value": 13.952082282644,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-01-14 to 2019-01-15",
+    "objective_value": 135.74365533703204,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-01-15 to 2019-01-16",
+    "objective_value": 139.158184768762,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-01-16 to 2019-01-17",
+    "objective_value": 148.956005887947,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-01-17 to 2019-01-18",
+    "objective_value": 120.22769495417579,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-01-18 to 2019-01-19",
+    "objective_value": 49.384656292752794,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-01-19 to 2019-01-20",
+    "objective_value": 7.041798773319001,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-01-20 to 2019-01-21",
+    "objective_value": 4.9562628736829,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-01-21 to 2019-01-22",
+    "objective_value": 19.584885902149,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-01-22 to 2019-01-23",
+    "objective_value": 105.91926827353198,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-01-23 to 2019-01-24",
+    "objective_value": 112.211829336769,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-01-24 to 2019-01-25",
+    "objective_value": 112.81764159716901,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-01-25 to 2019-01-26",
+    "objective_value": 106.4492870376795,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-01-26 to 2019-01-27",
+    "objective_value": 4.8502102447845,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-01-27 to 2019-01-28",
+    "objective_value": 20.121304312741,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-01-28 to 2019-01-29",
+    "objective_value": 118.47682792735502,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-01-29 to 2019-01-30",
+    "objective_value": 105.252538182737,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-01-30 to 2019-01-31",
+    "objective_value": 95.9452759513258,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-01-31 to 2019-02-01",
+    "objective_value": 107.139079832024,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-02-01 to 2019-02-02",
+    "objective_value": 35.17682691732,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-02-02 to 2019-02-03",
+    "objective_value": 2.4962142436940002,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-02-03 to 2019-02-04",
+    "objective_value": 14.837001582924,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-02-04 to 2019-02-05",
+    "objective_value": 126.211967525137,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-02-05 to 2019-02-06",
+    "objective_value": 142.054960379236,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-02-06 to 2019-02-07",
+    "objective_value": 97.52353533585199,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-02-07 to 2019-02-08",
+    "objective_value": 134.51594790034102,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-02-08 to 2019-02-09",
+    "objective_value": 106.114269096426,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-02-09 to 2019-02-10",
+    "objective_value": 7.4757736995899995,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-02-10 to 2019-02-11",
+    "objective_value": 20.076867691520004,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-02-11 to 2019-02-12",
+    "objective_value": 123.32961181323,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-02-12 to 2019-02-13",
+    "objective_value": 121.19666385681501,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-02-13 to 2019-02-14",
+    "objective_value": 131.003409485449,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-02-14 to 2019-02-15",
+    "objective_value": 83.184343101641,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-02-15 to 2019-02-16",
+    "objective_value": 33.359573834752,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-02-16 to 2019-02-17",
+    "objective_value": 1.126550925133,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-02-17 to 2019-02-18",
+    "objective_value": 3.594707675153,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-02-18 to 2019-02-19",
+    "objective_value": 22.937271910170796,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-02-19 to 2019-02-20",
+    "objective_value": 126.62891642691879,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-02-20 to 2019-02-21",
+    "objective_value": 131.89559248415839,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-02-21 to 2019-02-22",
+    "objective_value": 102.54139043516838,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-02-22 to 2019-02-23",
+    "objective_value": 95.580762968198,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-02-23 to 2019-02-24",
+    "objective_value": 7.155079645305,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-02-24 to 2019-02-25",
+    "objective_value": 15.9670323142794,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-02-25 to 2019-02-26",
+    "objective_value": 137.073266435087,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-02-26 to 2019-02-27",
+    "objective_value": 104.2543565804628,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-02-27 to 2019-02-28",
+    "objective_value": 86.50430906494181,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-02-28 to 2019-03-01",
+    "objective_value": 109.66024567534198,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-03-01 to 2019-03-02",
+    "objective_value": 41.447302132762005,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-03-02 to 2019-03-03",
+    "objective_value": 3.22171378496,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-03-03 to 2019-03-04",
+    "objective_value": 18.6075535208263,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-03-04 to 2019-03-05",
+    "objective_value": 119.08789383276297,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-03-05 to 2019-03-06",
+    "objective_value": 79.31543752398801,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-03-06 to 2019-03-07",
+    "objective_value": 76.94266645469901,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-03-07 to 2019-03-08",
+    "objective_value": 126.19628059428689,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-03-08 to 2019-03-09",
+    "objective_value": 93.61540258289689,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-03-09 to 2019-03-10",
+    "objective_value": 5.145551532761,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-03-10 to 2019-03-11",
+    "objective_value": 43.513061426692005,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-03-11 to 2019-03-12",
+    "objective_value": 113.565122128087,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-03-12 to 2019-03-13",
+    "objective_value": 82.57033457133402,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-03-13 to 2019-03-14",
+    "objective_value": 93.25114866836401,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-03-14 to 2019-03-15",
+    "objective_value": 98.65944543445673,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-03-15 to 2019-03-16",
+    "objective_value": 31.607606346626703,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-03-16 to 2019-03-17",
+    "objective_value": 7.811883101659999,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-03-17 to 2019-03-18",
+    "objective_value": 30.587837195625,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-03-18 to 2019-03-19",
+    "objective_value": 108.0912348443782,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-03-19 to 2019-03-20",
+    "objective_value": 83.578614265223,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-03-20 to 2019-03-21",
+    "objective_value": 92.86454387450742,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-03-21 to 2019-03-22",
+    "objective_value": 116.11432385782598,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-03-22 to 2019-03-23",
+    "objective_value": 88.83779560759301,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-03-23 to 2019-03-24",
+    "objective_value": 5.539312573385,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-03-24 to 2019-03-25",
+    "objective_value": 31.778849502757,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-03-25 to 2019-03-26",
+    "objective_value": 83.55363939220301,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-03-26 to 2019-03-27",
+    "objective_value": 96.502794937522,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-03-27 to 2019-03-28",
+    "objective_value": 105.6101603520125,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-03-28 to 2019-03-29",
+    "objective_value": 91.9418507858865,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-03-29 to 2019-03-30",
+    "objective_value": 43.851037354823994,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-03-30 to 2019-03-31",
+    "objective_value": 8.720006614709998,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-03-31 to 2019-04-01",
+    "objective_value": 35.83185696837,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-04-01 to 2019-04-02",
+    "objective_value": 129.429172174983,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-04-02 to 2019-04-03",
+    "objective_value": 104.079778258209,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-04-03 to 2019-04-04",
+    "objective_value": 94.917496140084,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-04-04 to 2019-04-05",
+    "objective_value": 102.21977426487999,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-04-05 to 2019-04-06",
+    "objective_value": 60.59636966510601,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-04-06 to 2019-04-07",
+    "objective_value": 2.964664438038,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-04-07 to 2019-04-08",
+    "objective_value": 32.821604972378,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-04-08 to 2019-04-09",
+    "objective_value": 95.97477026572298,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-04-09 to 2019-04-10",
+    "objective_value": 106.21126961136402,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-04-10 to 2019-04-11",
+    "objective_value": 108.32529880912402,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-04-11 to 2019-04-12",
+    "objective_value": 102.09919128938499,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-04-12 to 2019-04-13",
+    "objective_value": 22.763401465567,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-04-13 to 2019-04-14",
+    "objective_value": 1.253905697274,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-04-14 to 2019-04-15",
+    "objective_value": 34.703350770602,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-04-15 to 2019-04-16",
+    "objective_value": 116.56145515933447,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-04-16 to 2019-04-17",
+    "objective_value": 109.9230873961629,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-04-17 to 2019-04-18",
+    "objective_value": 87.916723329157,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-04-18 to 2019-04-19",
+    "objective_value": 92.50607654635499,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-04-19 to 2019-04-20",
+    "objective_value": 47.252607637884,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-04-20 to 2019-04-21",
+    "objective_value": 2.3392548295270004,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-04-21 to 2019-04-22",
+    "objective_value": 32.931934599091,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-04-22 to 2019-04-23",
+    "objective_value": 95.70239014811598,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-04-23 to 2019-04-24",
+    "objective_value": 84.216733488803,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-04-24 to 2019-04-25",
+    "objective_value": 62.86160120304,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-04-25 to 2019-04-26",
+    "objective_value": 50.73314666208599,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-04-26 to 2019-04-27",
+    "objective_value": 35.416942787806,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-04-27 to 2019-04-29",
+    "objective_value": 40.19989045297999,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-04-29 to 2019-04-30",
+    "objective_value": 123.04325580350798,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-04-30 to 2019-05-01",
+    "objective_value": 129.93881733271897,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-05-01 to 2019-05-02",
+    "objective_value": 87.860325300672,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-05-02 to 2019-05-03",
+    "objective_value": 120.67218820915201,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-05-03 to 2019-05-04",
+    "objective_value": 64.570050348527,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-05-04 to 2019-05-05",
+    "objective_value": 3.611491828839,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-05-05 to 2019-05-06",
+    "objective_value": 40.805250094064995,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-05-06 to 2019-05-07",
+    "objective_value": 114.86607891206997,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-05-07 to 2019-05-08",
+    "objective_value": 76.028382188347,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-05-08 to 2019-05-09",
+    "objective_value": 84.26814125242,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-05-09 to 2019-05-10",
+    "objective_value": 78.84716225116402,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-05-10 to 2019-05-11",
+    "objective_value": 24.583473564562997,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-05-11 to 2019-05-12",
+    "objective_value": 2.1453709183379996,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-05-12 to 2019-05-13",
+    "objective_value": 34.204805459705,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-05-13 to 2019-05-14",
+    "objective_value": 119.085233752694,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-05-14 to 2019-05-15",
+    "objective_value": 123.66390417648901,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-05-15 to 2019-05-16",
+    "objective_value": 110.95217351292999,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-05-16 to 2019-05-17",
+    "objective_value": 95.88572159317698,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-05-17 to 2019-05-18",
+    "objective_value": 58.992571347939005,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-05-18 to 2019-05-19",
+    "objective_value": 7.478776684552,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-05-19 to 2019-05-20",
+    "objective_value": 43.659522314696,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-05-20 to 2019-05-21",
+    "objective_value": 131.516111832836,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-05-21 to 2019-05-22",
+    "objective_value": 119.99156236005601,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-05-22 to 2019-05-23",
+    "objective_value": 115.184195023395,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-05-23 to 2019-05-24",
+    "objective_value": 78.72265638673501,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-05-24 to 2019-05-25",
+    "objective_value": 25.268120650061995,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-05-25 to 2019-05-26",
+    "objective_value": 3.6229614814208997,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-05-26 to 2019-05-27",
+    "objective_value": 2.88618847776,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-05-27 to 2019-05-28",
+    "objective_value": 31.445576043928998,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-05-28 to 2019-05-29",
+    "objective_value": 83.10369702286,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-05-29 to 2019-05-30",
+    "objective_value": 97.730360453428,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-05-30 to 2019-05-31",
+    "objective_value": 118.56080771758799,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-05-31 to 2019-06-01",
+    "objective_value": 76.45110679115197,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-06-01 to 2019-06-02",
+    "objective_value": 2.809351559368,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-06-02 to 2019-06-03",
+    "objective_value": 29.4909576832184,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-06-03 to 2019-06-04",
+    "objective_value": 109.4347243673767,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-06-04 to 2019-06-05",
+    "objective_value": 90.71171424079851,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-06-05 to 2019-06-06",
+    "objective_value": 90.028529133294,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-06-06 to 2019-06-07",
+    "objective_value": 54.312266695568994,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-06-07 to 2019-06-08",
+    "objective_value": 19.105179834631002,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-06-08 to 2019-06-09",
+    "objective_value": 5.196533474911001,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-06-09 to 2019-06-10",
+    "objective_value": 30.713954448499997,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-06-10 to 2019-06-11",
+    "objective_value": 109.48534463084,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-06-11 to 2019-06-12",
+    "objective_value": 92.26334288873922,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-06-12 to 2019-06-13",
+    "objective_value": 78.22080211953799,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-06-13 to 2019-06-14",
+    "objective_value": 96.78926009163798,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-06-14 to 2019-06-15",
+    "objective_value": 45.10589025720301,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-06-15 to 2019-06-16",
+    "objective_value": 3.32179531895,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-06-16 to 2019-06-17",
+    "objective_value": 27.36650694401,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-06-17 to 2019-06-18",
+    "objective_value": 88.685682526346,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-06-18 to 2019-06-19",
+    "objective_value": 84.22734724788381,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-06-19 to 2019-06-20",
+    "objective_value": 98.611609408777,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-06-20 to 2019-06-21",
+    "objective_value": 72.14985777788799,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-06-21 to 2019-06-22",
+    "objective_value": 29.292191637721,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-06-22 to 2019-06-23",
+    "objective_value": 3.0959760478850002,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-06-23 to 2019-06-24",
+    "objective_value": 51.205278637804994,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-06-24 to 2019-06-25",
+    "objective_value": 94.06084201527,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-06-25 to 2019-06-26",
+    "objective_value": 90.295355823316,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-06-26 to 2019-06-27",
+    "objective_value": 106.71791736665598,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-06-27 to 2019-06-28",
+    "objective_value": 125.17272495556499,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-06-28 to 2019-06-29",
+    "objective_value": 87.23313134296,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-06-29 to 2019-06-30",
+    "objective_value": 2.565976842868,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-06-30 to 2019-07-01",
+    "objective_value": 28.386765700400005,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-07-01 to 2019-07-02",
+    "objective_value": 118.99101639597009,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-07-02 to 2019-07-03",
+    "objective_value": 77.486150304295,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-07-03 to 2019-07-04",
+    "objective_value": 15.164670991062001,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-07-04 to 2019-07-05",
+    "objective_value": 6.323915728710251,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-07-05 to 2019-07-06",
+    "objective_value": 13.960065195955,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-07-06 to 2019-07-07",
+    "objective_value": 0.0,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-07-07 to 2019-07-08",
+    "objective_value": 42.42578608119,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-07-08 to 2019-07-09",
+    "objective_value": 112.54520229302601,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-07-09 to 2019-07-10",
+    "objective_value": 109.89827749539403,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-07-10 to 2019-07-11",
+    "objective_value": 109.74669518043098,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-07-11 to 2019-07-12",
+    "objective_value": 132.463060834029,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-07-12 to 2019-07-13",
+    "objective_value": 90.326335962688,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-07-13 to 2019-07-14",
+    "objective_value": 2.144002470853,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-07-14 to 2019-07-15",
+    "objective_value": 28.126537425796997,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-07-15 to 2019-07-16",
+    "objective_value": 93.840362215672,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-07-16 to 2019-07-17",
+    "objective_value": 117.33854323221402,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-07-17 to 2019-07-18",
+    "objective_value": 116.702850786592,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-07-18 to 2019-07-19",
+    "objective_value": 89.28234355010099,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-07-19 to 2019-07-20",
+    "objective_value": 21.287892119558,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-07-20 to 2019-07-21",
+    "objective_value": 0.6606887039999999,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-07-21 to 2019-07-22",
+    "objective_value": 43.334448368770005,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-07-22 to 2019-07-23",
+    "objective_value": 121.57592714831999,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-07-23 to 2019-07-24",
+    "objective_value": 114.480321165251,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-07-24 to 2019-07-25",
+    "objective_value": 125.69490980543048,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-07-25 to 2019-07-26",
+    "objective_value": 108.8758590494505,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-07-26 to 2019-07-27",
+    "objective_value": 78.29136338812961,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-07-27 to 2019-07-28",
+    "objective_value": 1.4586266809296002,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-07-28 to 2019-07-29",
+    "objective_value": 28.1720275444696,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-07-29 to 2019-07-30",
+    "objective_value": 89.0146896395196,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-07-30 to 2019-07-31",
+    "objective_value": 87.8485569588062,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-07-31 to 2019-08-01",
+    "objective_value": 83.45384140798001,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-08-01 to 2019-08-02",
+    "objective_value": 88.778954385325,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-08-02 to 2019-08-03",
+    "objective_value": 19.479424460522996,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-08-03 to 2019-08-04",
+    "objective_value": 2.199338155336,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-08-04 to 2019-08-05",
+    "objective_value": 36.95353679319001,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-08-05 to 2019-08-06",
+    "objective_value": 99.13292113191301,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-08-06 to 2019-08-07",
+    "objective_value": 109.25055910587501,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-08-07 to 2019-08-08",
+    "objective_value": 100.325946742945,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-08-08 to 2019-08-09",
+    "objective_value": 110.3886090924243,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-08-09 to 2019-08-10",
+    "objective_value": 70.0716651223603,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-08-10 to 2019-08-11",
+    "objective_value": 1.2979053232089999,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-08-11 to 2019-08-12",
+    "objective_value": 23.593833374720003,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-08-12 to 2019-08-13",
+    "objective_value": 82.46108241754,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-08-13 to 2019-08-14",
+    "objective_value": 90.30694423199999,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-08-14 to 2019-08-15",
+    "objective_value": 91.65083966994999,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-08-15 to 2019-08-16",
+    "objective_value": 67.959549619164,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-08-16 to 2019-08-17",
+    "objective_value": 20.386043461969003,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-08-17 to 2019-08-18",
+    "objective_value": 0.7235890843869999,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-08-18 to 2019-08-19",
+    "objective_value": 32.093663307113,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-08-19 to 2019-08-20",
+    "objective_value": 76.571321360739,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-08-20 to 2019-08-21",
+    "objective_value": 77.352545964325,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-08-21 to 2019-08-22",
+    "objective_value": 75.31238794592001,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-08-22 to 2019-08-23",
+    "objective_value": 95.34279619703598,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-08-23 to 2019-08-24",
+    "objective_value": 61.905500246856,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-08-24 to 2019-08-25",
+    "objective_value": 0.60247120433,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-08-25 to 2019-08-26",
+    "objective_value": 44.783830533983,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-08-26 to 2019-08-27",
+    "objective_value": 99.91191636112401,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-08-27 to 2019-08-28",
+    "objective_value": 103.70273306401378,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-08-28 to 2019-08-29",
+    "objective_value": 103.3734044344946,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-08-29 to 2019-08-30",
+    "objective_value": 80.60718428079302,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-08-30 to 2019-08-31",
+    "objective_value": 26.759171377477,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-08-31 to 2019-09-01",
+    "objective_value": 0.587338717513,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-09-01 to 2019-09-02",
+    "objective_value": 0.603081441,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-09-02 to 2019-09-03",
+    "objective_value": 37.040644194656,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-09-03 to 2019-09-04",
+    "objective_value": 93.00842556253,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-09-04 to 2019-09-05",
+    "objective_value": 68.151206292787,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-09-05 to 2019-09-06",
+    "objective_value": 69.47975427262999,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-09-06 to 2019-09-07",
+    "objective_value": 44.6187139776,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-09-07 to 2019-09-08",
+    "objective_value": 1.3947223816940002,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-09-08 to 2019-09-09",
+    "objective_value": 16.628646718828,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-09-09 to 2019-09-10",
+    "objective_value": 68.71241275882102,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-09-10 to 2019-09-11",
+    "objective_value": 57.692047082999004,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-09-11 to 2019-09-12",
+    "objective_value": 72.18526131445999,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-09-12 to 2019-09-13",
+    "objective_value": 56.659115061569,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-09-13 to 2019-09-14",
+    "objective_value": 14.456747601688,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-09-14 to 2019-09-15",
+    "objective_value": 1.237941326293,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-09-15 to 2019-09-16",
+    "objective_value": 25.848359076878,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-09-16 to 2019-09-17",
+    "objective_value": 102.94902455975699,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-09-17 to 2019-09-18",
+    "objective_value": 106.860668316497,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-09-18 to 2019-09-19",
+    "objective_value": 119.10045396224898,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-09-19 to 2019-09-20",
+    "objective_value": 117.148417276839,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-09-20 to 2019-09-21",
+    "objective_value": 68.44417274174,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-09-21 to 2019-09-22",
+    "objective_value": 5.1920415532163995,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-09-22 to 2019-09-23",
+    "objective_value": 27.379759276567,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-09-23 to 2019-09-24",
+    "objective_value": 78.56805011926299,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-09-24 to 2019-09-25",
+    "objective_value": 78.2235646824504,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-09-25 to 2019-09-26",
+    "objective_value": 94.1877590703954,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-09-26 to 2019-09-27",
+    "objective_value": 87.17561346504301,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-09-27 to 2019-09-28",
+    "objective_value": 30.809478304389998,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-09-28 to 2019-09-29",
+    "objective_value": 4.615726480139,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-09-29 to 2019-09-30",
+    "objective_value": 38.179240513416,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-09-30 to 2019-10-01",
+    "objective_value": 96.39236350692998,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-10-01 to 2019-10-02",
+    "objective_value": 71.748515724099,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-10-02 to 2019-10-03",
+    "objective_value": 97.240094890889,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-10-03 to 2019-10-04",
+    "objective_value": 112.859368001548,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-10-04 to 2019-10-05",
+    "objective_value": 77.30534748259599,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-10-05 to 2019-10-06",
+    "objective_value": 7.37408452001,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-10-06 to 2019-10-07",
+    "objective_value": 33.8904735302992,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-10-07 to 2019-10-08",
+    "objective_value": 113.14514130133918,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-10-08 to 2019-10-09",
+    "objective_value": 89.95091197737402,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-10-09 to 2019-10-10",
+    "objective_value": 99.2139841140095,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-10-10 to 2019-10-11",
+    "objective_value": 77.329036360912,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-10-11 to 2019-10-12",
+    "objective_value": 24.322403820463993,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-10-12 to 2019-10-13",
+    "objective_value": 5.104038958259999,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-10-13 to 2019-10-14",
+    "objective_value": 28.046601888555,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-10-14 to 2019-10-15",
+    "objective_value": 60.900050803923,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-10-15 to 2019-10-16",
+    "objective_value": 88.54651727396998,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-10-16 to 2019-10-17",
+    "objective_value": 89.04238373224,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-10-17 to 2019-10-18",
+    "objective_value": 95.6124485558951,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-10-18 to 2019-10-19",
+    "objective_value": 61.3511545239261,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-10-19 to 2019-10-20",
+    "objective_value": 5.49129841415,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-10-20 to 2019-10-21",
+    "objective_value": 36.614698036292,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-10-21 to 2019-10-22",
+    "objective_value": 118.19204249237698,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-10-22 to 2019-10-23",
+    "objective_value": 96.27900608757301,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-10-23 to 2019-10-24",
+    "objective_value": 102.01207138535398,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-10-24 to 2019-10-25",
+    "objective_value": 73.00631278364921,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-10-25 to 2019-10-26",
+    "objective_value": 32.805783397648,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-10-26 to 2019-10-27",
+    "objective_value": 7.274229960926,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-10-27 to 2019-10-28",
+    "objective_value": 54.781803679955,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-10-28 to 2019-10-29",
+    "objective_value": 131.328745622664,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-10-29 to 2019-10-30",
+    "objective_value": 108.0101703392212,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-10-30 to 2019-10-31",
+    "objective_value": 128.305701888865,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-10-31 to 2019-11-01",
+    "objective_value": 101.76232803918099,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-11-01 to 2019-11-02",
+    "objective_value": 50.521988210166,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-11-02 to 2019-11-03",
+    "objective_value": 3.997524932256999,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-11-03 to 2019-11-04",
+    "objective_value": 6.934772748019,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-11-04 to 2019-11-05",
+    "objective_value": 64.51080926882001,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-11-05 to 2019-11-06",
+    "objective_value": 65.628800466138,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-11-06 to 2019-11-07",
+    "objective_value": 91.42393594239701,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-11-07 to 2019-11-08",
+    "objective_value": 68.40914277244899,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-11-08 to 2019-11-09",
+    "objective_value": 27.887741235554994,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-11-09 to 2019-11-10",
+    "objective_value": 5.002528169062,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-11-10 to 2019-11-11",
+    "objective_value": 17.973292625242,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-11-11 to 2019-11-12",
+    "objective_value": 98.11568003081439,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-11-12 to 2019-11-13",
+    "objective_value": 97.87438257154501,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-11-13 to 2019-11-14",
+    "objective_value": 95.39097773352272,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-11-14 to 2019-11-15",
+    "objective_value": 112.54272278482367,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-11-15 to 2019-11-16",
+    "objective_value": 90.1128901518,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-11-16 to 2019-11-17",
+    "objective_value": 15.433794122104297,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-11-17 to 2019-11-18",
+    "objective_value": 23.9886608824293,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-11-18 to 2019-11-19",
+    "objective_value": 127.12134845053002,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-11-19 to 2019-11-20",
+    "objective_value": 128.42658185968955,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-11-20 to 2019-11-21",
+    "objective_value": 130.7139999836528,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-11-21 to 2019-11-22",
+    "objective_value": 113.16980968697031,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-11-22 to 2019-11-23",
+    "objective_value": 30.303658710679997,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-11-23 to 2019-11-24",
+    "objective_value": 2.00003615452,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-11-24 to 2019-11-25",
+    "objective_value": 22.42008089531,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-11-25 to 2019-11-26",
+    "objective_value": 97.998683506524,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-11-26 to 2019-11-27",
+    "objective_value": 93.29755483042801,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-11-27 to 2019-11-28",
+    "objective_value": 36.64484797309701,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-11-28 to 2019-11-29",
+    "objective_value": 3.567923599797,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-11-29 to 2019-12-01",
+    "objective_value": 2.052666687078,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-12-01 to 2019-12-02",
+    "objective_value": 15.989698302419,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-12-02 to 2019-12-03",
+    "objective_value": 112.80311000911999,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-12-03 to 2019-12-04",
+    "objective_value": 139.44766752467694,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-12-04 to 2019-12-05",
+    "objective_value": 113.997295378851,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-12-05 to 2019-12-06",
+    "objective_value": 117.0960830588566,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-12-06 to 2019-12-07",
+    "objective_value": 30.474675932419995,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-12-07 to 2019-12-08",
+    "objective_value": 7.03424680146,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-12-08 to 2019-12-09",
+    "objective_value": 15.080443257547,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-12-09 to 2019-12-10",
+    "objective_value": 95.3724522789331,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-12-10 to 2019-12-11",
+    "objective_value": 102.45346314665831,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-12-11 to 2019-12-12",
+    "objective_value": 89.8259254356044,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-12-12 to 2019-12-13",
+    "objective_value": 64.951050633638,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-12-13 to 2019-12-14",
+    "objective_value": 50.753020867093,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-12-14 to 2019-12-15",
+    "objective_value": 5.269928141139001,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-12-15 to 2019-12-16",
+    "objective_value": 20.612391504128,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-12-16 to 2019-12-17",
+    "objective_value": 98.97203194075199,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-12-17 to 2019-12-18",
+    "objective_value": 73.12118489779802,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-12-18 to 2019-12-19",
+    "objective_value": 64.0056784185152,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-12-19 to 2019-12-20",
+    "objective_value": 25.511270640967208,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-12-20 to 2019-12-21",
+    "objective_value": 4.970039729630001,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-12-21 to 2019-12-23",
+    "objective_value": 9.169164577199998,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-12-23 to 2019-12-24",
+    "objective_value": 44.3547601852864,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-12-24 to 2019-12-26",
+    "objective_value": 16.5413594679534,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-12-26 to 2019-12-27",
+    "objective_value": 18.442988132190003,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-12-27 to 2019-12-28",
+    "objective_value": 33.16695876333,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-12-28 to 2019-12-29",
+    "objective_value": 2.34618387611,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-12-29 to 2019-12-30",
+    "objective_value": 18.066669868934,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-12-30 to 2019-12-31",
+    "objective_value": 98.35003657475686,
+    "status": "Optimal"
+  },
+  {
+    "date_range": "2019-12-31",
+    "objective_value": null,
+    "status": "No session"
+  }
+]

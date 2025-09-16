@@ -1,0 +1,2377 @@
+[
+  {
+    "date_range": "2018-09-05 to 2018-09-06",
+    "fcfs_cost": 34.5492720142456,
+    "status": "Done"
+  },
+  {
+    "date_range": "2018-09-06 to 2018-09-07",
+    "fcfs_cost": 67.77754075828362,
+    "status": "Done"
+  },
+  {
+    "date_range": "2018-09-07 to 2018-09-08",
+    "fcfs_cost": 45.82120756558023,
+    "status": "Done"
+  },
+  {
+    "date_range": "2018-09-08 to 2018-09-09",
+    "fcfs_cost": 4.747777481059935,
+    "status": "Done"
+  },
+  {
+    "date_range": "2018-09-09 to 2018-09-10",
+    "fcfs_cost": 25.851352494344034,
+    "status": "Done"
+  },
+  {
+    "date_range": "2018-09-10 to 2018-09-11",
+    "fcfs_cost": 67.367102811954,
+    "status": "Done"
+  },
+  {
+    "date_range": "2018-09-11 to 2018-09-13",
+    "fcfs_cost": 23.99407721922454,
+    "status": "Done"
+  },
+  {
+    "date_range": "2018-09-13 to 2018-09-14",
+    "fcfs_cost": 52.12281023542049,
+    "status": "Done"
+  },
+  {
+    "date_range": "2018-09-14 to 2018-09-15",
+    "fcfs_cost": 29.067937337955968,
+    "status": "Done"
+  },
+  {
+    "date_range": "2018-09-15 to 2018-09-16",
+    "fcfs_cost": 4.992270920351236,
+    "status": "Done"
+  },
+  {
+    "date_range": "2018-09-16 to 2018-09-17",
+    "fcfs_cost": 39.709323278199996,
+    "status": "Done"
+  },
+  {
+    "date_range": "2018-09-17 to 2018-09-18",
+    "fcfs_cost": 118.55269548347167,
+    "status": "Done"
+  },
+  {
+    "date_range": "2018-09-18 to 2018-09-19",
+    "fcfs_cost": 107.07525830574711,
+    "status": "Done"
+  },
+  {
+    "date_range": "2018-09-19 to 2018-09-20",
+    "fcfs_cost": 92.31383330100924,
+    "status": "Done"
+  },
+  {
+    "date_range": "2018-09-20 to 2018-09-21",
+    "fcfs_cost": 109.10397698544072,
+    "status": "Done"
+  },
+  {
+    "date_range": "2018-09-21 to 2018-09-22",
+    "fcfs_cost": 82.3260210724233,
+    "status": "Done"
+  },
+  {
+    "date_range": "2018-09-22 to 2018-09-23",
+    "fcfs_cost": 7.784977759504093,
+    "status": "Done"
+  },
+  {
+    "date_range": "2018-09-23 to 2018-09-24",
+    "fcfs_cost": 25.03519776115643,
+    "status": "Done"
+  },
+  {
+    "date_range": "2018-09-24 to 2018-09-25",
+    "fcfs_cost": 93.97082345524046,
+    "status": "Done"
+  },
+  {
+    "date_range": "2018-09-25 to 2018-09-26",
+    "fcfs_cost": 111.00040373195391,
+    "status": "Done"
+  },
+  {
+    "date_range": "2018-09-26 to 2018-09-27",
+    "fcfs_cost": 118.16136799560059,
+    "status": "Done"
+  },
+  {
+    "date_range": "2018-09-27 to 2018-09-28",
+    "fcfs_cost": 105.11840097656736,
+    "status": "Done"
+  },
+  {
+    "date_range": "2018-09-28 to 2018-09-29",
+    "fcfs_cost": 37.99443420844231,
+    "status": "Done"
+  },
+  {
+    "date_range": "2018-09-29 to 2018-09-30",
+    "fcfs_cost": 1.1760528804916575,
+    "status": "Done"
+  },
+  {
+    "date_range": "2018-09-30 to 2018-10-01",
+    "fcfs_cost": 25.114229698288273,
+    "status": "Done"
+  },
+  {
+    "date_range": "2018-10-01 to 2018-10-02",
+    "fcfs_cost": 120.52251694355114,
+    "status": "Done"
+  },
+  {
+    "date_range": "2018-10-02 to 2018-10-03",
+    "fcfs_cost": 88.3235183778678,
+    "status": "Done"
+  },
+  {
+    "date_range": "2018-10-03 to 2018-10-04",
+    "fcfs_cost": 123.08438158206046,
+    "status": "Done"
+  },
+  {
+    "date_range": "2018-10-04 to 2018-10-05",
+    "fcfs_cost": 128.55927445077234,
+    "status": "Done"
+  },
+  {
+    "date_range": "2018-10-05 to 2018-10-06",
+    "fcfs_cost": 89.34764700096967,
+    "status": "Done"
+  },
+  {
+    "date_range": "2018-10-06 to 2018-10-07",
+    "fcfs_cost": 5.273386747285259,
+    "status": "Done"
+  },
+  {
+    "date_range": "2018-10-07 to 2018-10-08",
+    "fcfs_cost": 45.828661261898425,
+    "status": "Done"
+  },
+  {
+    "date_range": "2018-10-08 to 2018-10-09",
+    "fcfs_cost": 143.9661882973771,
+    "status": "Done"
+  },
+  {
+    "date_range": "2018-10-09 to 2018-10-10",
+    "fcfs_cost": 116.89859319008013,
+    "status": "Done"
+  },
+  {
+    "date_range": "2018-10-10 to 2018-10-11",
+    "fcfs_cost": 115.48759233603595,
+    "status": "Done"
+  },
+  {
+    "date_range": "2018-10-11 to 2018-10-12",
+    "fcfs_cost": 95.50904631520068,
+    "status": "Done"
+  },
+  {
+    "date_range": "2018-10-12 to 2018-10-13",
+    "fcfs_cost": 22.945286661995873,
+    "status": "Done"
+  },
+  {
+    "date_range": "2018-10-13 to 2018-10-14",
+    "fcfs_cost": 7.902184024437276,
+    "status": "Done"
+  },
+  {
+    "date_range": "2018-10-14 to 2018-10-15",
+    "fcfs_cost": 24.39596850078052,
+    "status": "Done"
+  },
+  {
+    "date_range": "2018-10-15 to 2018-10-16",
+    "fcfs_cost": 149.73165285052102,
+    "status": "Done"
+  },
+  {
+    "date_range": "2018-10-16 to 2018-10-17",
+    "fcfs_cost": 106.52509021010474,
+    "status": "Done"
+  },
+  {
+    "date_range": "2018-10-17 to 2018-10-18",
+    "fcfs_cost": 109.91095493726948,
+    "status": "Done"
+  },
+  {
+    "date_range": "2018-10-18 to 2018-10-19",
+    "fcfs_cost": 114.9487308219135,
+    "status": "Done"
+  },
+  {
+    "date_range": "2018-10-19 to 2018-10-20",
+    "fcfs_cost": 79.55036501832373,
+    "status": "Done"
+  },
+  {
+    "date_range": "2018-10-20 to 2018-10-21",
+    "fcfs_cost": 3.676934860819481,
+    "status": "Done"
+  },
+  {
+    "date_range": "2018-10-21 to 2018-10-22",
+    "fcfs_cost": 38.205477930080356,
+    "status": "Done"
+  },
+  {
+    "date_range": "2018-10-22 to 2018-10-23",
+    "fcfs_cost": 107.4725820697761,
+    "status": "Done"
+  },
+  {
+    "date_range": "2018-10-23 to 2018-10-24",
+    "fcfs_cost": 109.11055118658469,
+    "status": "Done"
+  },
+  {
+    "date_range": "2018-10-24 to 2018-10-25",
+    "fcfs_cost": 117.86405135249701,
+    "status": "Done"
+  },
+  {
+    "date_range": "2018-10-25 to 2018-10-26",
+    "fcfs_cost": 113.4385051857888,
+    "status": "Done"
+  },
+  {
+    "date_range": "2018-10-26 to 2018-10-27",
+    "fcfs_cost": 44.46324263945238,
+    "status": "Done"
+  },
+  {
+    "date_range": "2018-10-27 to 2018-10-28",
+    "fcfs_cost": 6.395777639249326,
+    "status": "Done"
+  },
+  {
+    "date_range": "2018-10-28 to 2018-10-29",
+    "fcfs_cost": 40.05296210323803,
+    "status": "Done"
+  },
+  {
+    "date_range": "2018-10-29 to 2018-10-30",
+    "fcfs_cost": 126.93592020847768,
+    "status": "Done"
+  },
+  {
+    "date_range": "2018-10-30 to 2018-10-31",
+    "fcfs_cost": 116.61542447034283,
+    "status": "Done"
+  },
+  {
+    "date_range": "2018-10-31 to 2018-11-01",
+    "fcfs_cost": 96.08302163442303,
+    "status": "Done"
+  },
+  {
+    "date_range": "2018-11-01 to 2018-11-02",
+    "fcfs_cost": 98.00185406117237,
+    "status": "Done"
+  },
+  {
+    "date_range": "2018-11-02 to 2018-11-03",
+    "fcfs_cost": 66.4937330535545,
+    "status": "Done"
+  },
+  {
+    "date_range": "2018-11-03 to 2018-11-04",
+    "fcfs_cost": 0.8784805333333334,
+    "status": "Done"
+  },
+  {
+    "date_range": "2018-11-04 to 2018-11-05",
+    "fcfs_cost": 12.914386248117541,
+    "status": "Done"
+  },
+  {
+    "date_range": "2018-11-05 to 2018-11-06",
+    "fcfs_cost": 150.3718622641379,
+    "status": "Done"
+  },
+  {
+    "date_range": "2018-11-06 to 2018-11-07",
+    "fcfs_cost": 92.77414979931267,
+    "status": "Done"
+  },
+  {
+    "date_range": "2018-11-07 to 2018-11-08",
+    "fcfs_cost": 115.27619838441183,
+    "status": "Done"
+  },
+  {
+    "date_range": "2018-11-08 to 2018-11-09",
+    "fcfs_cost": 93.13157849648724,
+    "status": "Done"
+  },
+  {
+    "date_range": "2018-11-09 to 2018-11-10",
+    "fcfs_cost": 42.59329851673023,
+    "status": "Done"
+  },
+  {
+    "date_range": "2018-11-10 to 2018-11-11",
+    "fcfs_cost": 1.7768669522931564,
+    "status": "Done"
+  },
+  {
+    "date_range": "2018-11-11 to 2018-11-12",
+    "fcfs_cost": 17.96183795597192,
+    "status": "Done"
+  },
+  {
+    "date_range": "2018-11-12 to 2018-11-13",
+    "fcfs_cost": 130.82592438881287,
+    "status": "Done"
+  },
+  {
+    "date_range": "2018-11-13 to 2018-11-14",
+    "fcfs_cost": 95.97935917838807,
+    "status": "Done"
+  },
+  {
+    "date_range": "2018-11-14 to 2018-11-15",
+    "fcfs_cost": 129.75431121653406,
+    "status": "Done"
+  },
+  {
+    "date_range": "2018-11-15 to 2018-11-16",
+    "fcfs_cost": 123.48563495369268,
+    "status": "Done"
+  },
+  {
+    "date_range": "2018-11-16 to 2018-11-17",
+    "fcfs_cost": 104.60826508318456,
+    "status": "Done"
+  },
+  {
+    "date_range": "2018-11-17 to 2018-11-18",
+    "fcfs_cost": 6.7705256037950186,
+    "status": "Done"
+  },
+  {
+    "date_range": "2018-11-18 to 2018-11-19",
+    "fcfs_cost": 20.895671663150075,
+    "status": "Done"
+  },
+  {
+    "date_range": "2018-11-19 to 2018-11-20",
+    "fcfs_cost": 149.02849259140933,
+    "status": "Done"
+  },
+  {
+    "date_range": "2018-11-20 to 2018-11-21",
+    "fcfs_cost": 82.39394075681474,
+    "status": "Done"
+  },
+  {
+    "date_range": "2018-11-21 to 2018-11-22",
+    "fcfs_cost": 9.458828710115618,
+    "status": "Done"
+  },
+  {
+    "date_range": "2018-11-22 to 2018-11-23",
+    "fcfs_cost": 2.4703387328476953,
+    "status": "Done"
+  },
+  {
+    "date_range": "2018-11-23 to 2018-11-24",
+    "fcfs_cost": 2.051846390625473,
+    "status": "Done"
+  },
+  {
+    "date_range": "2018-11-24 to 2018-11-25",
+    "fcfs_cost": 2.5283336127347287,
+    "status": "Done"
+  },
+  {
+    "date_range": "2018-11-25 to 2018-11-26",
+    "fcfs_cost": 36.47207673953345,
+    "status": "Done"
+  },
+  {
+    "date_range": "2018-11-26 to 2018-11-27",
+    "fcfs_cost": 97.42898963853509,
+    "status": "Done"
+  },
+  {
+    "date_range": "2018-11-27 to 2018-11-28",
+    "fcfs_cost": 113.39033202858816,
+    "status": "Done"
+  },
+  {
+    "date_range": "2018-11-28 to 2018-11-29",
+    "fcfs_cost": 125.6942370953458,
+    "status": "Done"
+  },
+  {
+    "date_range": "2018-11-29 to 2018-11-30",
+    "fcfs_cost": 130.20179666079716,
+    "status": "Done"
+  },
+  {
+    "date_range": "2018-11-30 to 2018-12-01",
+    "fcfs_cost": 108.17065465542834,
+    "status": "Done"
+  },
+  {
+    "date_range": "2018-12-01 to 2018-12-02",
+    "fcfs_cost": 1.7495884224221014,
+    "status": "Done"
+  },
+  {
+    "date_range": "2018-12-02 to 2018-12-03",
+    "fcfs_cost": 21.570878128995695,
+    "status": "Done"
+  },
+  {
+    "date_range": "2018-12-03 to 2018-12-04",
+    "fcfs_cost": 148.49227659748553,
+    "status": "Done"
+  },
+  {
+    "date_range": "2018-12-04 to 2018-12-05",
+    "fcfs_cost": 133.36929141817512,
+    "status": "Done"
+  },
+  {
+    "date_range": "2018-12-05 to 2018-12-06",
+    "fcfs_cost": 126.97224760206538,
+    "status": "Done"
+  },
+  {
+    "date_range": "2018-12-06 to 2018-12-07",
+    "fcfs_cost": 118.73230888740933,
+    "status": "Done"
+  },
+  {
+    "date_range": "2018-12-07 to 2018-12-08",
+    "fcfs_cost": 47.89668106550455,
+    "status": "Done"
+  },
+  {
+    "date_range": "2018-12-08 to 2018-12-09",
+    "fcfs_cost": 1.3339775555555555,
+    "status": "Done"
+  },
+  {
+    "date_range": "2018-12-09 to 2018-12-10",
+    "fcfs_cost": 16.922563757157647,
+    "status": "Done"
+  },
+  {
+    "date_range": "2018-12-10 to 2018-12-11",
+    "fcfs_cost": 135.22029008292083,
+    "status": "Done"
+  },
+  {
+    "date_range": "2018-12-11 to 2018-12-12",
+    "fcfs_cost": 103.27542025669729,
+    "status": "Done"
+  },
+  {
+    "date_range": "2018-12-12 to 2018-12-13",
+    "fcfs_cost": 120.63445352713126,
+    "status": "Done"
+  },
+  {
+    "date_range": "2018-12-13 to 2018-12-14",
+    "fcfs_cost": 132.4174788275513,
+    "status": "Done"
+  },
+  {
+    "date_range": "2018-12-14 to 2018-12-15",
+    "fcfs_cost": 85.58855337382816,
+    "status": "Done"
+  },
+  {
+    "date_range": "2018-12-15 to 2018-12-16",
+    "fcfs_cost": 8.081001297773389,
+    "status": "Done"
+  },
+  {
+    "date_range": "2018-12-16 to 2018-12-17",
+    "fcfs_cost": 22.093892460248405,
+    "status": "Done"
+  },
+  {
+    "date_range": "2018-12-17 to 2018-12-18",
+    "fcfs_cost": 126.38670912856333,
+    "status": "Done"
+  },
+  {
+    "date_range": "2018-12-18 to 2018-12-19",
+    "fcfs_cost": 138.91184621947514,
+    "status": "Done"
+  },
+  {
+    "date_range": "2018-12-19 to 2018-12-20",
+    "fcfs_cost": 140.76714394551217,
+    "status": "Done"
+  },
+  {
+    "date_range": "2018-12-20 to 2018-12-21",
+    "fcfs_cost": 124.16508768250348,
+    "status": "Done"
+  },
+  {
+    "date_range": "2018-12-21 to 2018-12-22",
+    "fcfs_cost": 20.07721772008046,
+    "status": "Done"
+  },
+  {
+    "date_range": "2018-12-22 to 2018-12-24",
+    "fcfs_cost": 0.3163786994666665,
+    "status": "Done"
+  },
+  {
+    "date_range": "2018-12-24 to 2018-12-25",
+    "fcfs_cost": 1.394706866133333,
+    "status": "Done"
+  },
+  {
+    "date_range": "2018-12-25 to 2018-12-26",
+    "fcfs_cost": 11.858864668490027,
+    "status": "Done"
+  },
+  {
+    "date_range": "2018-12-26 to 2018-12-27",
+    "fcfs_cost": 87.56300031490069,
+    "status": "Done"
+  },
+  {
+    "date_range": "2018-12-27 to 2018-12-28",
+    "fcfs_cost": 90.27919996166834,
+    "status": "Done"
+  },
+  {
+    "date_range": "2018-12-28 to 2018-12-29",
+    "fcfs_cost": 41.31605072923948,
+    "status": "Done"
+  },
+  {
+    "date_range": "2018-12-29 to 2018-12-31",
+    "fcfs_cost": 3.9959060169796845,
+    "status": "Done"
+  },
+  {
+    "date_range": "2018-12-31 to 2019-01-02",
+    "fcfs_cost": 22.482527816584057,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-01-02 to 2019-01-03",
+    "fcfs_cost": 133.82917318846415,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-01-03 to 2019-01-04",
+    "fcfs_cost": 123.6182905185862,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-01-04 to 2019-01-05",
+    "fcfs_cost": 48.59382192847661,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-01-05 to 2019-01-06",
+    "fcfs_cost": 5.280085766666666,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-01-06 to 2019-01-07",
+    "fcfs_cost": 11.25067459753783,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-01-07 to 2019-01-08",
+    "fcfs_cost": 133.86294264676113,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-01-08 to 2019-01-09",
+    "fcfs_cost": 134.59653556937812,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-01-09 to 2019-01-10",
+    "fcfs_cost": 128.49671820397356,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-01-10 to 2019-01-11",
+    "fcfs_cost": 146.36677505564532,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-01-11 to 2019-01-12",
+    "fcfs_cost": 117.34229927780852,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-01-12 to 2019-01-13",
+    "fcfs_cost": 9.127831765155555,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-01-13 to 2019-01-14",
+    "fcfs_cost": 16.23241694699231,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-01-14 to 2019-01-15",
+    "fcfs_cost": 153.92834716466368,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-01-15 to 2019-01-16",
+    "fcfs_cost": 146.39877948859706,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-01-16 to 2019-01-17",
+    "fcfs_cost": 159.98340832298805,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-01-17 to 2019-01-18",
+    "fcfs_cost": 128.48563839163077,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-01-18 to 2019-01-19",
+    "fcfs_cost": 52.420322380147844,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-01-19 to 2019-01-20",
+    "fcfs_cost": 8.63042818252652,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-01-20 to 2019-01-21",
+    "fcfs_cost": 6.191823930517333,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-01-21 to 2019-01-22",
+    "fcfs_cost": 22.30590146754588,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-01-22 to 2019-01-23",
+    "fcfs_cost": 129.4703442926185,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-01-23 to 2019-01-24",
+    "fcfs_cost": 131.2201197957749,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-01-24 to 2019-01-25",
+    "fcfs_cost": 129.17039222920283,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-01-25 to 2019-01-26",
+    "fcfs_cost": 118.45178971122505,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-01-26 to 2019-01-27",
+    "fcfs_cost": 6.3501537495512945,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-01-27 to 2019-01-28",
+    "fcfs_cost": 21.800702643948355,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-01-28 to 2019-01-29",
+    "fcfs_cost": 138.97074109505363,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-01-29 to 2019-01-30",
+    "fcfs_cost": 128.22702155469122,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-01-30 to 2019-01-31",
+    "fcfs_cost": 115.39750758913581,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-01-31 to 2019-02-01",
+    "fcfs_cost": 129.9899001716622,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-02-01 to 2019-02-02",
+    "fcfs_cost": 48.80543272703091,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-02-02 to 2019-02-03",
+    "fcfs_cost": 2.788594297910617,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-02-03 to 2019-02-04",
+    "fcfs_cost": 15.22222066020243,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-02-04 to 2019-02-05",
+    "fcfs_cost": 141.27487321933882,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-02-05 to 2019-02-06",
+    "fcfs_cost": 152.61742196103967,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-02-06 to 2019-02-07",
+    "fcfs_cost": 111.55635233255038,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-02-07 to 2019-02-08",
+    "fcfs_cost": 144.44792545482125,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-02-08 to 2019-02-09",
+    "fcfs_cost": 116.91187129330483,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-02-09 to 2019-02-10",
+    "fcfs_cost": 11.025492681625456,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-02-10 to 2019-02-11",
+    "fcfs_cost": 20.765898074154833,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-02-11 to 2019-02-12",
+    "fcfs_cost": 132.66313381313466,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-02-12 to 2019-02-13",
+    "fcfs_cost": 126.22147949580508,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-02-13 to 2019-02-14",
+    "fcfs_cost": 141.1069722287674,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-02-14 to 2019-02-15",
+    "fcfs_cost": 94.3006099005095,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-02-15 to 2019-02-16",
+    "fcfs_cost": 36.5267194667321,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-02-16 to 2019-02-17",
+    "fcfs_cost": 1.307725932233997,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-02-17 to 2019-02-18",
+    "fcfs_cost": 4.45002803667844,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-02-18 to 2019-02-19",
+    "fcfs_cost": 23.48117615731743,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-02-19 to 2019-02-20",
+    "fcfs_cost": 132.60016498778995,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-02-20 to 2019-02-21",
+    "fcfs_cost": 142.1844508327176,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-02-21 to 2019-02-22",
+    "fcfs_cost": 113.5881425573902,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-02-22 to 2019-02-23",
+    "fcfs_cost": 102.39052455627245,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-02-23 to 2019-02-24",
+    "fcfs_cost": 7.6389061720433284,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-02-24 to 2019-02-25",
+    "fcfs_cost": 16.422241584496064,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-02-25 to 2019-02-26",
+    "fcfs_cost": 144.41281080033733,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-02-26 to 2019-02-27",
+    "fcfs_cost": 115.75546339542078,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-02-27 to 2019-02-28",
+    "fcfs_cost": 94.72197172225512,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-02-28 to 2019-03-01",
+    "fcfs_cost": 114.25670727922578,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-03-01 to 2019-03-02",
+    "fcfs_cost": 44.981928568198526,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-03-02 to 2019-03-03",
+    "fcfs_cost": 3.4407565240139455,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-03-03 to 2019-03-04",
+    "fcfs_cost": 21.133013500895185,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-03-04 to 2019-03-05",
+    "fcfs_cost": 124.19595091616662,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-03-05 to 2019-03-06",
+    "fcfs_cost": 102.69452912797725,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-03-06 to 2019-03-07",
+    "fcfs_cost": 83.84581680467065,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-03-07 to 2019-03-08",
+    "fcfs_cost": 130.19937246949405,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-03-08 to 2019-03-09",
+    "fcfs_cost": 95.1634479695336,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-03-09 to 2019-03-10",
+    "fcfs_cost": 5.596238185172144,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-03-10 to 2019-03-11",
+    "fcfs_cost": 44.50193632660301,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-03-11 to 2019-03-12",
+    "fcfs_cost": 116.79537237043635,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-03-12 to 2019-03-13",
+    "fcfs_cost": 90.74790823670912,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-03-13 to 2019-03-14",
+    "fcfs_cost": 96.4002711744906,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-03-14 to 2019-03-15",
+    "fcfs_cost": 99.70950127301772,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-03-15 to 2019-03-16",
+    "fcfs_cost": 32.259460132601916,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-03-16 to 2019-03-17",
+    "fcfs_cost": 9.446257197965709,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-03-17 to 2019-03-18",
+    "fcfs_cost": 31.623205539209494,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-03-18 to 2019-03-19",
+    "fcfs_cost": 115.8616890442518,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-03-19 to 2019-03-20",
+    "fcfs_cost": 91.67607956333698,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-03-20 to 2019-03-21",
+    "fcfs_cost": 98.72765761855177,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-03-21 to 2019-03-22",
+    "fcfs_cost": 116.99926148260202,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-03-22 to 2019-03-23",
+    "fcfs_cost": 91.20931169107685,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-03-23 to 2019-03-24",
+    "fcfs_cost": 6.362286072069521,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-03-24 to 2019-03-25",
+    "fcfs_cost": 36.33156139898026,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-03-25 to 2019-03-26",
+    "fcfs_cost": 96.05686814946247,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-03-26 to 2019-03-27",
+    "fcfs_cost": 102.94285693816768,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-03-27 to 2019-03-28",
+    "fcfs_cost": 111.83926266692431,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-03-28 to 2019-03-29",
+    "fcfs_cost": 94.2711981237957,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-03-29 to 2019-03-30",
+    "fcfs_cost": 44.76714303613095,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-03-30 to 2019-03-31",
+    "fcfs_cost": 9.320749904244863,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-03-31 to 2019-04-01",
+    "fcfs_cost": 36.3009827329774,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-04-01 to 2019-04-02",
+    "fcfs_cost": 131.01802129827166,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-04-02 to 2019-04-03",
+    "fcfs_cost": 107.26377231157662,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-04-03 to 2019-04-04",
+    "fcfs_cost": 101.85306762496725,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-04-04 to 2019-04-05",
+    "fcfs_cost": 112.41703870218399,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-04-05 to 2019-04-06",
+    "fcfs_cost": 67.62512770029026,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-04-06 to 2019-04-07",
+    "fcfs_cost": 3.2438804247239075,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-04-07 to 2019-04-08",
+    "fcfs_cost": 35.741758309187134,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-04-08 to 2019-04-09",
+    "fcfs_cost": 107.4638259573272,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-04-09 to 2019-04-10",
+    "fcfs_cost": 118.04459985035353,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-04-10 to 2019-04-11",
+    "fcfs_cost": 112.25873913512558,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-04-11 to 2019-04-12",
+    "fcfs_cost": 106.5776455915395,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-04-12 to 2019-04-13",
+    "fcfs_cost": 23.37971910238757,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-04-13 to 2019-04-14",
+    "fcfs_cost": 2.1717818345715054,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-04-14 to 2019-04-15",
+    "fcfs_cost": 35.52759045953024,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-04-15 to 2019-04-16",
+    "fcfs_cost": 121.27654948600811,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-04-16 to 2019-04-17",
+    "fcfs_cost": 125.31320607005891,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-04-17 to 2019-04-18",
+    "fcfs_cost": 94.38123638394111,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-04-18 to 2019-04-19",
+    "fcfs_cost": 108.11188208071202,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-04-19 to 2019-04-20",
+    "fcfs_cost": 55.06017913179096,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-04-20 to 2019-04-21",
+    "fcfs_cost": 2.5487852608518304,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-04-21 to 2019-04-22",
+    "fcfs_cost": 37.982568410842106,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-04-22 to 2019-04-23",
+    "fcfs_cost": 117.34563943715125,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-04-23 to 2019-04-24",
+    "fcfs_cost": 105.64358316451927,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-04-24 to 2019-04-25",
+    "fcfs_cost": 83.19008150614782,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-04-25 to 2019-04-26",
+    "fcfs_cost": 54.3499548106997,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-04-26 to 2019-04-27",
+    "fcfs_cost": 36.164004390456384,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-04-27 to 2019-04-29",
+    "fcfs_cost": 41.262642188663186,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-04-29 to 2019-04-30",
+    "fcfs_cost": 127.04564571723733,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-04-30 to 2019-05-01",
+    "fcfs_cost": 137.4582359674479,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-05-01 to 2019-05-02",
+    "fcfs_cost": 100.89827152004943,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-05-02 to 2019-05-03",
+    "fcfs_cost": 129.58776278754613,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-05-03 to 2019-05-04",
+    "fcfs_cost": 72.33329702146477,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-05-04 to 2019-05-05",
+    "fcfs_cost": 5.928333135444934,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-05-05 to 2019-05-06",
+    "fcfs_cost": 41.827550391851815,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-05-06 to 2019-05-07",
+    "fcfs_cost": 120.86977828666627,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-05-07 to 2019-05-08",
+    "fcfs_cost": 89.06973016772011,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-05-08 to 2019-05-09",
+    "fcfs_cost": 94.08731425272845,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-05-09 to 2019-05-10",
+    "fcfs_cost": 91.4669846014512,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-05-10 to 2019-05-11",
+    "fcfs_cost": 26.75451544870645,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-05-11 to 2019-05-12",
+    "fcfs_cost": 4.522732954963338,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-05-12 to 2019-05-13",
+    "fcfs_cost": 40.45567618609631,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-05-13 to 2019-05-14",
+    "fcfs_cost": 132.42744259023902,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-05-14 to 2019-05-15",
+    "fcfs_cost": 130.07155824560928,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-05-15 to 2019-05-16",
+    "fcfs_cost": 117.22389779460352,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-05-16 to 2019-05-17",
+    "fcfs_cost": 109.74392223704922,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-05-17 to 2019-05-18",
+    "fcfs_cost": 62.11282958746339,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-05-18 to 2019-05-19",
+    "fcfs_cost": 8.181131784018667,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-05-19 to 2019-05-20",
+    "fcfs_cost": 44.581998324824106,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-05-20 to 2019-05-21",
+    "fcfs_cost": 133.9517824924232,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-05-21 to 2019-05-22",
+    "fcfs_cost": 124.39650407858187,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-05-22 to 2019-05-23",
+    "fcfs_cost": 120.31702053783297,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-05-23 to 2019-05-24",
+    "fcfs_cost": 87.83758830646296,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-05-24 to 2019-05-25",
+    "fcfs_cost": 29.061897053662236,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-05-25 to 2019-05-26",
+    "fcfs_cost": 4.12910129192292,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-05-26 to 2019-05-27",
+    "fcfs_cost": 4.404863135337227,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-05-27 to 2019-05-28",
+    "fcfs_cost": 36.13775199241545,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-05-28 to 2019-05-29",
+    "fcfs_cost": 89.36608892948078,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-05-29 to 2019-05-30",
+    "fcfs_cost": 104.76800371782502,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-05-30 to 2019-05-31",
+    "fcfs_cost": 125.08291383212142,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-05-31 to 2019-06-01",
+    "fcfs_cost": 77.58760675723431,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-06-01 to 2019-06-02",
+    "fcfs_cost": 4.219601774268378,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-06-02 to 2019-06-03",
+    "fcfs_cost": 32.34790765160265,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-06-03 to 2019-06-04",
+    "fcfs_cost": 114.16204624911629,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-06-04 to 2019-06-05",
+    "fcfs_cost": 96.65514532285323,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-06-05 to 2019-06-06",
+    "fcfs_cost": 95.4457793131294,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-06-06 to 2019-06-07",
+    "fcfs_cost": 62.56255333994983,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-06-07 to 2019-06-08",
+    "fcfs_cost": 20.040904256445245,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-06-08 to 2019-06-09",
+    "fcfs_cost": 5.874941386686701,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-06-09 to 2019-06-10",
+    "fcfs_cost": 32.37745380415161,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-06-10 to 2019-06-11",
+    "fcfs_cost": 113.57365789827122,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-06-11 to 2019-06-12",
+    "fcfs_cost": 97.23160483766195,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-06-12 to 2019-06-13",
+    "fcfs_cost": 85.2245835240092,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-06-13 to 2019-06-14",
+    "fcfs_cost": 100.85109855431656,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-06-14 to 2019-06-15",
+    "fcfs_cost": 49.13252383252442,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-06-15 to 2019-06-16",
+    "fcfs_cost": 4.48846900718927,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-06-16 to 2019-06-17",
+    "fcfs_cost": 28.235646589418085,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-06-17 to 2019-06-18",
+    "fcfs_cost": 91.56237343619975,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-06-18 to 2019-06-19",
+    "fcfs_cost": 87.25154200221243,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-06-19 to 2019-06-20",
+    "fcfs_cost": 105.19731086112591,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-06-20 to 2019-06-21",
+    "fcfs_cost": 75.87703812110291,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-06-21 to 2019-06-22",
+    "fcfs_cost": 29.893538720909998,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-06-22 to 2019-06-23",
+    "fcfs_cost": 3.8677773372120727,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-06-23 to 2019-06-24",
+    "fcfs_cost": 52.25617474614427,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-06-24 to 2019-06-25",
+    "fcfs_cost": 95.64126370704285,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-06-25 to 2019-06-26",
+    "fcfs_cost": 94.90847637649779,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-06-26 to 2019-06-27",
+    "fcfs_cost": 109.41937703904132,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-06-27 to 2019-06-28",
+    "fcfs_cost": 127.69779993616177,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-06-28 to 2019-06-29",
+    "fcfs_cost": 90.26304911675774,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-06-29 to 2019-06-30",
+    "fcfs_cost": 2.604908220808087,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-06-30 to 2019-07-01",
+    "fcfs_cost": 30.535269669747542,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-07-01 to 2019-07-02",
+    "fcfs_cost": 129.33318958323946,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-07-02 to 2019-07-03",
+    "fcfs_cost": 84.86734920990848,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-07-03 to 2019-07-04",
+    "fcfs_cost": 17.63525582810973,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-07-04 to 2019-07-05",
+    "fcfs_cost": 7.854136365058968,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-07-05 to 2019-07-06",
+    "fcfs_cost": 14.242371828646986,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-07-06 to 2019-07-07",
+    "fcfs_cost": 0.0,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-07-07 to 2019-07-08",
+    "fcfs_cost": 45.07580997157172,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-07-08 to 2019-07-09",
+    "fcfs_cost": 121.28413014833339,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-07-09 to 2019-07-10",
+    "fcfs_cost": 123.61662206625907,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-07-10 to 2019-07-11",
+    "fcfs_cost": 117.75119009292044,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-07-11 to 2019-07-12",
+    "fcfs_cost": 136.69756114529426,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-07-12 to 2019-07-13",
+    "fcfs_cost": 96.77972120125365,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-07-13 to 2019-07-14",
+    "fcfs_cost": 2.5307364602466675,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-07-14 to 2019-07-15",
+    "fcfs_cost": 31.581859556718623,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-07-15 to 2019-07-16",
+    "fcfs_cost": 104.79136853110936,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-07-16 to 2019-07-17",
+    "fcfs_cost": 127.10655516443316,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-07-17 to 2019-07-18",
+    "fcfs_cost": 127.01630144431539,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-07-18 to 2019-07-19",
+    "fcfs_cost": 98.35822457680824,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-07-19 to 2019-07-20",
+    "fcfs_cost": 22.62551249303016,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-07-20 to 2019-07-21",
+    "fcfs_cost": 0.8828388119530628,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-07-21 to 2019-07-22",
+    "fcfs_cost": 45.91181495926403,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-07-22 to 2019-07-23",
+    "fcfs_cost": 129.29382579868522,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-07-23 to 2019-07-24",
+    "fcfs_cost": 122.32028254972018,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-07-24 to 2019-07-25",
+    "fcfs_cost": 141.0566036954759,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-07-25 to 2019-07-26",
+    "fcfs_cost": 118.61106240861385,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-07-26 to 2019-07-27",
+    "fcfs_cost": 82.62886283945659,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-07-27 to 2019-07-28",
+    "fcfs_cost": 2.0342197380619513,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-07-28 to 2019-07-29",
+    "fcfs_cost": 30.987740382552886,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-07-29 to 2019-07-30",
+    "fcfs_cost": 101.30220235641968,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-07-30 to 2019-07-31",
+    "fcfs_cost": 102.75589675146969,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-07-31 to 2019-08-01",
+    "fcfs_cost": 91.01519815995076,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-08-01 to 2019-08-02",
+    "fcfs_cost": 95.74623041780762,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-08-02 to 2019-08-03",
+    "fcfs_cost": 20.777082468866382,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-08-03 to 2019-08-04",
+    "fcfs_cost": 2.9333060471111114,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-08-04 to 2019-08-05",
+    "fcfs_cost": 39.908612389619805,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-08-05 to 2019-08-06",
+    "fcfs_cost": 104.47295140348753,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-08-06 to 2019-08-07",
+    "fcfs_cost": 116.7317677501648,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-08-07 to 2019-08-08",
+    "fcfs_cost": 105.60261852181293,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-08-08 to 2019-08-09",
+    "fcfs_cost": 119.53170940263779,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-08-09 to 2019-08-10",
+    "fcfs_cost": 72.8277108055533,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-08-10 to 2019-08-11",
+    "fcfs_cost": 1.660451967311473,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-08-11 to 2019-08-12",
+    "fcfs_cost": 28.530226941617894,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-08-12 to 2019-08-13",
+    "fcfs_cost": 96.57640581748412,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-08-13 to 2019-08-14",
+    "fcfs_cost": 97.30986848008261,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-08-14 to 2019-08-15",
+    "fcfs_cost": 98.66763264411095,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-08-15 to 2019-08-16",
+    "fcfs_cost": 70.90734497729237,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-08-16 to 2019-08-17",
+    "fcfs_cost": 20.92146891394142,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-08-17 to 2019-08-18",
+    "fcfs_cost": 0.8207603164444444,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-08-18 to 2019-08-19",
+    "fcfs_cost": 39.32569302692596,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-08-19 to 2019-08-20",
+    "fcfs_cost": 93.75566585896667,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-08-20 to 2019-08-21",
+    "fcfs_cost": 96.50209062483422,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-08-21 to 2019-08-22",
+    "fcfs_cost": 92.34678790543136,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-08-22 to 2019-08-23",
+    "fcfs_cost": 104.8017663665692,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-08-23 to 2019-08-24",
+    "fcfs_cost": 63.70551200254061,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-08-24 to 2019-08-25",
+    "fcfs_cost": 0.9594646666666666,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-08-25 to 2019-08-26",
+    "fcfs_cost": 45.453918230427135,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-08-26 to 2019-08-27",
+    "fcfs_cost": 101.38103903639525,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-08-27 to 2019-08-28",
+    "fcfs_cost": 106.43901497498827,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-08-28 to 2019-08-29",
+    "fcfs_cost": 108.39966156076756,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-08-29 to 2019-08-30",
+    "fcfs_cost": 84.73394680462157,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-08-30 to 2019-08-31",
+    "fcfs_cost": 30.244409424100034,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-08-31 to 2019-09-01",
+    "fcfs_cost": 0.5994011508444445,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-09-01 to 2019-09-02",
+    "fcfs_cost": 0.6511454286222222,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-09-02 to 2019-09-03",
+    "fcfs_cost": 38.79171166553742,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-09-03 to 2019-09-04",
+    "fcfs_cost": 100.56836848816289,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-09-04 to 2019-09-05",
+    "fcfs_cost": 83.72008829181313,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-09-05 to 2019-09-06",
+    "fcfs_cost": 89.11243878536774,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-09-06 to 2019-09-07",
+    "fcfs_cost": 55.97234587889102,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-09-07 to 2019-09-08",
+    "fcfs_cost": 1.5693751449835214,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-09-08 to 2019-09-09",
+    "fcfs_cost": 20.24654130668609,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-09-09 to 2019-09-10",
+    "fcfs_cost": 84.46484222899406,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-09-10 to 2019-09-11",
+    "fcfs_cost": 66.59151383364407,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-09-11 to 2019-09-12",
+    "fcfs_cost": 82.4621048570485,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-09-12 to 2019-09-13",
+    "fcfs_cost": 66.05879871604503,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-09-13 to 2019-09-14",
+    "fcfs_cost": 16.838928922661214,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-09-14 to 2019-09-15",
+    "fcfs_cost": 1.5407377840944942,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-09-15 to 2019-09-16",
+    "fcfs_cost": 26.88909235553028,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-09-16 to 2019-09-17",
+    "fcfs_cost": 104.35315511262996,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-09-17 to 2019-09-18",
+    "fcfs_cost": 109.6924507875995,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-09-18 to 2019-09-19",
+    "fcfs_cost": 124.12608221426106,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-09-19 to 2019-09-20",
+    "fcfs_cost": 121.74724014123017,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-09-20 to 2019-09-21",
+    "fcfs_cost": 75.67294286878403,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-09-21 to 2019-09-22",
+    "fcfs_cost": 6.660648132309813,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-09-22 to 2019-09-23",
+    "fcfs_cost": 30.348596133014322,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-09-23 to 2019-09-24",
+    "fcfs_cost": 90.58845768232561,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-09-24 to 2019-09-25",
+    "fcfs_cost": 87.89024788900562,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-09-25 to 2019-09-26",
+    "fcfs_cost": 96.66465748393229,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-09-26 to 2019-09-27",
+    "fcfs_cost": 89.20211523574795,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-09-27 to 2019-09-28",
+    "fcfs_cost": 31.628255281711958,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-09-28 to 2019-09-29",
+    "fcfs_cost": 5.170249396386962,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-09-29 to 2019-09-30",
+    "fcfs_cost": 38.87400720667301,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-09-30 to 2019-10-01",
+    "fcfs_cost": 102.87542088140003,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-10-01 to 2019-10-02",
+    "fcfs_cost": 82.1948970643886,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-10-02 to 2019-10-03",
+    "fcfs_cost": 101.70642123006736,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-10-03 to 2019-10-04",
+    "fcfs_cost": 118.79043765890172,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-10-04 to 2019-10-05",
+    "fcfs_cost": 81.8930968916164,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-10-05 to 2019-10-06",
+    "fcfs_cost": 8.06950305208443,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-10-06 to 2019-10-07",
+    "fcfs_cost": 34.97836144657991,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-10-07 to 2019-10-08",
+    "fcfs_cost": 120.51406483099989,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-10-08 to 2019-10-09",
+    "fcfs_cost": 102.50869743685935,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-10-09 to 2019-10-10",
+    "fcfs_cost": 109.52757070376217,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-10-10 to 2019-10-11",
+    "fcfs_cost": 81.82501853800974,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-10-11 to 2019-10-12",
+    "fcfs_cost": 27.360083855015414,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-10-12 to 2019-10-13",
+    "fcfs_cost": 5.562293543139163,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-10-13 to 2019-10-14",
+    "fcfs_cost": 36.29263970957435,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-10-14 to 2019-10-15",
+    "fcfs_cost": 79.87958507573414,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-10-15 to 2019-10-16",
+    "fcfs_cost": 102.09057495362528,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-10-16 to 2019-10-17",
+    "fcfs_cost": 100.97462127128026,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-10-17 to 2019-10-18",
+    "fcfs_cost": 107.21708309925283,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-10-18 to 2019-10-19",
+    "fcfs_cost": 66.04987985218558,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-10-19 to 2019-10-20",
+    "fcfs_cost": 7.925448599702134,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-10-20 to 2019-10-21",
+    "fcfs_cost": 40.82634805316879,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-10-21 to 2019-10-22",
+    "fcfs_cost": 135.89206821951248,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-10-22 to 2019-10-23",
+    "fcfs_cost": 118.72956758159438,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-10-23 to 2019-10-24",
+    "fcfs_cost": 116.15852765843968,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-10-24 to 2019-10-25",
+    "fcfs_cost": 79.32727625204721,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-10-25 to 2019-10-26",
+    "fcfs_cost": 38.80328552651798,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-10-26 to 2019-10-27",
+    "fcfs_cost": 8.688287528956755,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-10-27 to 2019-10-28",
+    "fcfs_cost": 58.05460559853086,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-10-28 to 2019-10-29",
+    "fcfs_cost": 141.80517421309543,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-10-29 to 2019-10-30",
+    "fcfs_cost": 122.86563405725818,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-10-30 to 2019-10-31",
+    "fcfs_cost": 149.8646406851003,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-10-31 to 2019-11-01",
+    "fcfs_cost": 119.91927767487958,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-11-01 to 2019-11-02",
+    "fcfs_cost": 57.11952869751788,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-11-02 to 2019-11-03",
+    "fcfs_cost": 6.386898163006483,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-11-03 to 2019-11-04",
+    "fcfs_cost": 12.816642945665222,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-11-04 to 2019-11-05",
+    "fcfs_cost": 102.5948752938875,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-11-05 to 2019-11-06",
+    "fcfs_cost": 71.58360654491999,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-11-06 to 2019-11-07",
+    "fcfs_cost": 103.17629901040269,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-11-07 to 2019-11-08",
+    "fcfs_cost": 82.8432651634009,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-11-08 to 2019-11-09",
+    "fcfs_cost": 31.117775937784394,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-11-09 to 2019-11-10",
+    "fcfs_cost": 5.564264429229878,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-11-10 to 2019-11-11",
+    "fcfs_cost": 19.50153153644913,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-11-11 to 2019-11-12",
+    "fcfs_cost": 108.01743665210783,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-11-12 to 2019-11-13",
+    "fcfs_cost": 116.40764888516006,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-11-13 to 2019-11-14",
+    "fcfs_cost": 113.99323314725572,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-11-14 to 2019-11-15",
+    "fcfs_cost": 126.39567638018576,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-11-15 to 2019-11-16",
+    "fcfs_cost": 104.12963360210965,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-11-16 to 2019-11-17",
+    "fcfs_cost": 17.823540531500445,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-11-17 to 2019-11-18",
+    "fcfs_cost": 25.133868366808343,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-11-18 to 2019-11-19",
+    "fcfs_cost": 140.2977942737036,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-11-19 to 2019-11-20",
+    "fcfs_cost": 146.1670209261949,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-11-20 to 2019-11-21",
+    "fcfs_cost": 160.2433520257258,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-11-21 to 2019-11-22",
+    "fcfs_cost": 141.547159918781,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-11-22 to 2019-11-23",
+    "fcfs_cost": 40.67159880938276,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-11-23 to 2019-11-24",
+    "fcfs_cost": 2.30754072423719,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-11-24 to 2019-11-25",
+    "fcfs_cost": 27.142019443608596,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-11-25 to 2019-11-26",
+    "fcfs_cost": 121.0270676893158,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-11-26 to 2019-11-27",
+    "fcfs_cost": 111.46024293329785,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-11-27 to 2019-11-28",
+    "fcfs_cost": 47.344709096692554,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-11-28 to 2019-11-29",
+    "fcfs_cost": 3.9063490059193704,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-11-29 to 2019-12-01",
+    "fcfs_cost": 2.140990323548962,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-12-01 to 2019-12-02",
+    "fcfs_cost": 17.51651426934674,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-12-02 to 2019-12-03",
+    "fcfs_cost": 125.14653363581148,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-12-03 to 2019-12-04",
+    "fcfs_cost": 154.2351678365613,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-12-04 to 2019-12-05",
+    "fcfs_cost": 133.36757360767726,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-12-05 to 2019-12-06",
+    "fcfs_cost": 133.1976667544942,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-12-06 to 2019-12-07",
+    "fcfs_cost": 32.68714359535939,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-12-07 to 2019-12-08",
+    "fcfs_cost": 7.630775619515096,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-12-08 to 2019-12-09",
+    "fcfs_cost": 16.544261532402814,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-12-09 to 2019-12-10",
+    "fcfs_cost": 108.95416961085951,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-12-10 to 2019-12-11",
+    "fcfs_cost": 120.71689534160319,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-12-11 to 2019-12-12",
+    "fcfs_cost": 106.5670831610573,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-12-12 to 2019-12-13",
+    "fcfs_cost": 98.39856321135292,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-12-13 to 2019-12-14",
+    "fcfs_cost": 60.244488640041396,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-12-14 to 2019-12-15",
+    "fcfs_cost": 6.7954769404273785,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-12-15 to 2019-12-16",
+    "fcfs_cost": 23.20885582889295,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-12-16 to 2019-12-17",
+    "fcfs_cost": 116.03822090838936,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-12-17 to 2019-12-18",
+    "fcfs_cost": 98.50728198880637,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-12-18 to 2019-12-19",
+    "fcfs_cost": 106.98763362143985,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-12-19 to 2019-12-20",
+    "fcfs_cost": 63.674282858065425,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-12-20 to 2019-12-21",
+    "fcfs_cost": 10.315954302739309,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-12-21 to 2019-12-23",
+    "fcfs_cost": 16.25327625186523,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-12-23 to 2019-12-24",
+    "fcfs_cost": 81.37598962418198,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-12-24 to 2019-12-26",
+    "fcfs_cost": 20.069487882246392,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-12-26 to 2019-12-27",
+    "fcfs_cost": 20.599266096600143,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-12-27 to 2019-12-28",
+    "fcfs_cost": 39.8739356320125,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-12-28 to 2019-12-29",
+    "fcfs_cost": 2.8714715607062864,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-12-29 to 2019-12-30",
+    "fcfs_cost": 19.03311611375273,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-12-30 to 2019-12-31",
+    "fcfs_cost": 114.10153379649725,
+    "status": "Done"
+  },
+  {
+    "date_range": "2019-12-31",
+    "fcfs_cost": null,
+    "status": "No session"
+  }
+]

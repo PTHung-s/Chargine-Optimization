@@ -1,0 +1,40 @@
+{
+  "max_rate": 18.793693460842597,
+  "doubled_max_rate": 37.587386921685194,
+  "original_object": {
+    "_id": "5de317e3f9af8b36cb9c02a7",
+    "userInputs": [
+      {
+        "userID": 4475,
+        "milesRequested": 100,
+        "WhPerMile": 400,
+        "minutesAvailable": 517,
+        "modifiedAt": "Thu, 14 Nov 2019 15:32:53 GMT",
+        "paymentRequired": true,
+        "requestedDeparture": "Fri, 15 Nov 2019 00:09:13 GMT",
+        "kWhRequested": 40.0
+      },
+      {
+        "userID": 4475,
+        "milesRequested": 100,
+        "WhPerMile": 400,
+        "minutesAvailable": 517,
+        "modifiedAt": "Thu, 14 Nov 2019 20:59:40 GMT",
+        "paymentRequired": true,
+        "requestedDeparture": "Fri, 15 Nov 2019 00:09:13 GMT",
+        "kWhRequested": 40.0
+      }
+    ],
+    "userID": "000004475",
+    "sessionID": "1_1_191_784_2019-11-14 15:32:12.702055",
+    "stationID": "1-1-191-784",
+    "spaceID": "AG-4F40",
+    "siteID": "0001",
+    "clusterID": "0001",
+    "connectionTime": "Thu, 14 Nov 2019 15:32:13 GMT",
+    "disconnectTime": "Fri, 15 Nov 2019 00:17:08 GMT",
+    "kWhDelivered": 20.198,
+    "doneChargingTime": "Thu, 14 Nov 2019 16:36:42 GMT",
+    "timezone": "America/Los_Angeles"
+  }
+}

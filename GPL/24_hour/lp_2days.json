@@ -1,0 +1,194 @@
+[
+  {
+    "hour": 0,
+    "grid_usage": 12.565556
+  },
+  {
+    "hour": 1,
+    "grid_usage": 0.0
+  },
+  {
+    "hour": 2,
+    "grid_usage": 0.0
+  },
+  {
+    "hour": 3,
+    "grid_usage": 0.0
+  },
+  {
+    "hour": 4,
+    "grid_usage": 0.0
+  },
+  {
+    "hour": 5,
+    "grid_usage": 1.8641511
+  },
+  {
+    "hour": 6,
+    "grid_usage": 0.0
+  },
+  {
+    "hour": 7,
+    "grid_usage": 0.0
+  },
+  {
+    "hour": 8,
+    "grid_usage": 0.0
+  },
+  {
+    "hour": 9,
+    "grid_usage": 0.0
+  },
+  {
+    "hour": 10,
+    "grid_usage": 0.0
+  },
+  {
+    "hour": 11,
+    "grid_usage": 0.0
+  },
+  {
+    "hour": 12,
+    "grid_usage": 0.0
+  },
+  {
+    "hour": 13,
+    "grid_usage": 0.0
+  },
+  {
+    "hour": 14,
+    "grid_usage": 0.0
+  },
+  {
+    "hour": 15,
+    "grid_usage": 151.60758
+  },
+  {
+    "hour": 16,
+    "grid_usage": 300.0
+  },
+  {
+    "hour": 17,
+    "grid_usage": 0.0
+  },
+  {
+    "hour": 18,
+    "grid_usage": 0.0
+  },
+  {
+    "hour": 19,
+    "grid_usage": 0.0
+  },
+  {
+    "hour": 20,
+    "grid_usage": 0.0
+  },
+  {
+    "hour": 21,
+    "grid_usage": 0.0
+  },
+  {
+    "hour": 22,
+    "grid_usage": 18.802222
+  },
+  {
+    "hour": 23,
+    "grid_usage": 294.03801
+  },
+  {
+    "hour": 24,
+    "grid_usage": 300.0
+  },
+  {
+    "hour": 25,
+    "grid_usage": 136.45214
+  },
+  {
+    "hour": 26,
+    "grid_usage": 6.4290434
+  },
+  {
+    "hour": 27,
+    "grid_usage": 0.0
+  },
+  {
+    "hour": 28,
+    "grid_usage": 0.0
+  },
+  {
+    "hour": 29,
+    "grid_usage": 0.0
+  },
+  {
+    "hour": 30,
+    "grid_usage": 0.0
+  },
+  {
+    "hour": 31,
+    "grid_usage": 0.0
+  },
+  {
+    "hour": 32,
+    "grid_usage": 0.0
+  },
+  {
+    "hour": 33,
+    "grid_usage": 0.0
+  },
+  {
+    "hour": 34,
+    "grid_usage": 0.0
+  },
+  {
+    "hour": 35,
+    "grid_usage": 0.0
+  },
+  {
+    "hour": 36,
+    "grid_usage": 0.0
+  },
+  {
+    "hour": 37,
+    "grid_usage": 0.0
+  },
+  {
+    "hour": 38,
+    "grid_usage": 47.132629
+  },
+  {
+    "hour": 39,
+    "grid_usage": 0.0
+  },
+  {
+    "hour": 40,
+    "grid_usage": 300.0
+  },
+  {
+    "hour": 41,
+    "grid_usage": 0.0
+  },
+  {
+    "hour": 42,
+    "grid_usage": 0.0
+  },
+  {
+    "hour": 43,
+    "grid_usage": 0.0
+  },
+  {
+    "hour": 44,
+    "grid_usage": 0.0
+  },
+  {
+    "hour": 45,
+    "grid_usage": 5.0173349
+  },
+  {
+    "hour": 46,
+    "grid_usage": 0.0
+  },
+  {
+    "hour": 47,
+    "grid_usage": 204.93133
+  }
+]
